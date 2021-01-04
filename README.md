@@ -1,2 +1,2 @@
-# Trillo
-I'am learning flexbox with a page web about hotels
+# Trillo is a page web about hotels
+I'am learning flexbox 
